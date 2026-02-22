@@ -24,7 +24,7 @@ A fast-paced shooter built in **Unity 2019.4 LTS**. Focused on advanced physics-
 - Scalability and Microservices with Docker Compose.
 
 ### 📫 Let's Connect!
-- **LinkedIn:** www.linkedin.com/in/sebastian-rangel-14117628a
+- **LinkedIn:** www.linkedin.com/in/sebastian-rangel-dev
 - **Email:** sebastianjrangel@gmail.com 
 - **Portfolio/Itch.io:** https://rangelsebas.itch.io/
 
