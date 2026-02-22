@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Sebastián Rangel 👋
 
-<!--
-**Rangelsebas/Rangelsebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science Student** at the Universidad Autónoma de Madrid (UAM) with a deep interest in how systems work under the hood. I balance my academic rigor with a passion for building interactive experiences and scalable software.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
+- **Languages:** C, Java, Python, C#, SQL (PostgreSQL), JavaScript.
+- **Frameworks/Engines:** Django, Unity, Vue.js.
+- **Systems & DevOps:** Linux/Unix, Docker, POSIX Threads, IPC, Git.
+- **Methodologies:** SCRUM (Experience as Product Owner), MVC Architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Featured Projects
+
+#### 🔗 [Distributed PoW Simulator (Blockchain)](link-a-tu-repo)
+[cite_start]A high-performance C system simulating a blockchain environment. [cite: 37, 41] [cite_start]It utilizes **POSIX Message Queues** for miner-to-checker communication [cite: 49] [cite_start]and **Shared Memory** synchronized via semaphores for real-time monitoring. 
+
+#### ✈️ [Airport Management System](link-a-tu-repo)
+[cite_start]A robust Java desktop application implementing a complex business logic for airport operations. [cite: 104] [cite_start]It features **Role-Based Access Control**, infrastructure management (runways, terminals), and a custom serialization system for data persistence. [cite: 110, 119, 121]
+
+#### 🎮 [Cyber Escape (FPS Parkour)](link-a-tu-repo)
+A fast-paced shooter built in **Unity 2019.4 LTS**. Focused on advanced physics-based movement (Rigidbody), custom Sin-wave weapon bobbing, and the Singleton design pattern for global game state management.
+
+### 📊 Currently Learning
+- Advanced Network Protocols (implementing concurrent C web servers).
+- Scalability and Microservices with Docker Compose.
+
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/tu-perfil]
+- [cite_start]**Email:** sebastianjrangel@gmail.com [cite: 2]
+- **Portfolio/Itch.io:** [tu-link-de-itch]
+
+---
+*"The best way to predict the future is to code it."*
